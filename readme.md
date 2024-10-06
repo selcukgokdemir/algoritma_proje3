@@ -6,7 +6,7 @@
 ##  cevap 
 ```  
 
-*    7
+root  7
 
 *     7           5 , 7'den küçük olduğu için soluna eklenir.
      /
